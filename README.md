@@ -1,2 +1,2 @@
 # PrimerRepositorio
-Practica repositorio
+Prueba de Rama repositorio de GitHub
